@@ -1,7 +1,7 @@
 <!-- Banner Section with Typing Effect -->
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=007FFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sajid+👋;Future+Ingénieur+d'État;Cloud+%26+DevOps+Enthusiast;Java+backend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=007FFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sajid+👋;Future+Ingineer;Cloud+%26+DevOps+Enthusiast)
 
 <!-- Social Links -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-sajid.engineer-007FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sajid.engineer)
